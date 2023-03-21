@@ -8,7 +8,7 @@
 }
 
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer{
-    background-image: url("../assets/Menu\ Aberto.png");
+    background-image: url("../assets/MenuAberto.svg");
 }
 
 .container__botao:checked~.container__rotulo{
